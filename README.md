@@ -18,11 +18,9 @@ Designing DB modal
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Guvi Zen Class Database Schema
+##Guvi Zen Class Database design
 
-#Task2 
-
-Guvi Zen Class Database Schema
+Task2 
 
 This project is a database schema designed for managing various aspects of the Guvi Zen class, including class sessions,
 capstone projects, SQL queries, leave applications, placement requirements, and course syllabus.
