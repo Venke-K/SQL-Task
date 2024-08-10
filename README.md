@@ -1,5 +1,7 @@
 # SQL Basics
 
+Task 1 
+
 This repository provides basic examples of SQL queries including inserting, updating, deleting, creating, altering, and dropping tables. 
 
 These examples are useful for beginners looking to understand fundamental SQL operations.
@@ -14,9 +16,13 @@ Altering Tables
 Dropping Tables
 Designing DB modal 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Guvi Zen Class Database Schema
+
 #Task2 
 
-##Guvi Zen Class Database Schema
+Guvi Zen Class Database Schema
 
 This project is a database schema designed for managing various aspects of the Guvi Zen class, including class sessions,
 capstone projects, SQL queries, leave applications, placement requirements, and course syllabus.
